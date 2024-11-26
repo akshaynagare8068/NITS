@@ -1,3 +1,3 @@
 # NITS
 spring boot project
-Author -Akshay Nagare
+Author -Akshay Nagare (ak)
